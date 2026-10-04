@@ -1,19 +1,20 @@
-# PLC Automation Portfolio
+# SPS-Automatisierungsportfolio
 
-Portfolio of PLC automation projects developed with Siemens TIA Portal.
+Portfolio mit SPS-Automatisierungsprojekten, entwickelt mit Siemens TIA Portal.
 
-## Technologies
+## Technologien
+
 - Siemens S7-300 / S7-1500
 - TIA Portal
-- LAD / FBD
+- KOP / FUP
 - SCL
-- STL / AWL
-- PLC diagnostics and troubleshooting
+- AWL / STL
+- SPS-Diagnose und Fehlersuche
 
-## Projects
-- Parking Garage Control
-- Traffic Light Control
-- Conveyor Control
-- Motor Control
-- Analog Speed Control
+## Projekte
 
+- Parkhaussteuerung
+- Ampelsteuerung
+- Förderbandsteuerung
+- Motorsteuerung
+- Analogwert- und Geschwindigkeitssteuerung
